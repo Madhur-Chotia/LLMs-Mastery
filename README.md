@@ -12,5 +12,9 @@ For your comfortability, I have kept enough comments for code readability.
 Also to focus on concepts of embeddings, tokenisers and other concepts, they are created in .py format and practical implementation of LLM models are in .ipynb format
 I would suggest you to go with .py files first if you are dealing with NLP tasks for the first time.
 
+The inspiration for my work is from the following course:
+https://www.udemy.com/course/llms-mastery-complete-guide-to-transformers-generative-ai/
+This course is designed as a compact yet resourceful concepts of LLM models. 
+
 For any queries or suggestions, kindly reach me out to my LinkedIn or to my mail given in my bio.
 Happy Learning! I'll see you in the next one!
